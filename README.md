@@ -1,4 +1,4 @@
-﻿BiblioProaocontra
+﻿FILOSOFIA
 =================
 
-Bibliografia para trabalhos acadêmicos *****
+Semântica para dissertações
